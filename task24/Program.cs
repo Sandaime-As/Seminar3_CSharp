@@ -5,7 +5,7 @@
 using static System.Console;
 Clear();
 Write("Введите номер дня недели: ");
-int number=Convert.ToInt32(ReadLine());
+int number = Convert.ToInt32(ReadLine());
 switch (number)
 {
     case 1:
