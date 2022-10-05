@@ -11,7 +11,6 @@ if(num1==0 && num2==0 || num1>=0 && num2>=0 || num1<=0 && num2<=0)
     WriteLine("error!");
     return;
 }
-
 if(num1>=0 && num2>=0)
 {
     WriteLine("Номер четверти: 1");
